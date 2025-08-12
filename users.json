@@ -1,0 +1,724 @@
+[
+  {
+    "name": "Lola Vali",
+    "age": 24,
+    "email": "lola.vali0@example.com",
+    "country": "Uzbekistan",
+    "city": "Samarkand",
+    "skills": [
+      "Git",
+      "PostgreSQL",
+      "Kubernetes",
+      "AWS"
+    ],
+    "is_active": true,
+    "profession": "Data Analyst"
+  },
+  {
+    "name": "Lola Ali",
+    "age": 29,
+    "email": "lola.ali1@example.com",
+    "country": "Uzbekistan",
+    "city": "Nukus",
+    "skills": [
+      "MongoDB",
+      ".NET"
+    ],
+    "is_active": false,
+    "profession": "System Administrator"
+  },
+  {
+    "name": "Diyor Shahnoza",
+    "age": 21,
+    "email": "diyor.shahnoza2@example.com",
+    "country": "Uzbekistan",
+    "city": "Urgench",
+    "skills": [
+      "Django",
+      "JavaScript",
+      "AWS",
+      "Kubernetes"
+    ],
+    "is_active": true,
+    "profession": "Backend Developer"
+  },
+  {
+    "name": "Shahnoza Zarnigor",
+    "age": 32,
+    "email": "shahnoza.zarnigor3@example.com",
+    "country": "Uzbekistan",
+    "city": "Namangan",
+    "skills": [
+      "PostgreSQL",
+      "HTML",
+      "Docker",
+      "Kubernetes",
+      "Java"
+    ],
+    "is_active": false,
+    "profession": "UI/UX Designer"
+  },
+  {
+    "name": "Mukhammad Umid",
+    "age": 30,
+    "email": "mukhammad.umid4@example.com",
+    "country": "Uzbekistan",
+    "city": "Urgench",
+    "skills": [
+      "React",
+      "HTML",
+      "MongoDB",
+      "Vue",
+      "Docker"
+    ],
+    "is_active": false,
+    "profession": "System Administrator"
+  },
+  {
+    "name": "Malika Ali",
+    "age": 26,
+    "email": "malika.ali5@example.com",
+    "country": "Uzbekistan",
+    "city": "Nukus",
+    "skills": [
+      "Java",
+      ".NET"
+    ],
+    "is_active": true,
+    "profession": "Frontend Developer"
+  },
+  {
+    "name": "Javlon Jamshid",
+    "age": 40,
+    "email": "javlon.jamshid6@example.com",
+    "country": "Uzbekistan",
+    "city": "Jizzakh",
+    "skills": [
+      "Azure",
+      "C#",
+      "Docker"
+    ],
+    "is_active": true,
+    "profession": "System Administrator"
+  },
+  {
+    "name": "Javlon Lola",
+    "age": 40,
+    "email": "javlon.lola7@example.com",
+    "country": "Uzbekistan",
+    "city": "Nukus",
+    "skills": [
+      "CSS",
+      "SQL"
+    ],
+    "is_active": true,
+    "profession": "Software Engineer"
+  },
+  {
+    "name": "Diyor Vali",
+    "age": 37,
+    "email": "diyor.vali8@example.com",
+    "country": "Uzbekistan",
+    "city": "Nukus",
+    "skills": [
+      ".NET",
+      "Azure",
+      "AWS",
+      "Django"
+    ],
+    "is_active": true,
+    "profession": "System Administrator"
+  },
+  {
+    "name": "Javlon Aziza",
+    "age": 39,
+    "email": "javlon.aziza9@example.com",
+    "country": "Uzbekistan",
+    "city": "Kokand",
+    "skills": [
+      "Flask",
+      ".NET",
+      "CSS"
+    ],
+    "is_active": false,
+    "profession": "DevOps Engineer"
+  },
+  {
+    "name": "Malika Umid",
+    "age": 35,
+    "email": "malika.umid10@example.com",
+    "country": "Uzbekistan",
+    "city": "Tashkent",
+    "skills": [
+      "React",
+      "Spring"
+    ],
+    "is_active": true,
+    "profession": "QA Engineer"
+  },
+  {
+    "name": "Umid Jamshid",
+    "age": 20,
+    "email": "umid.jamshid11@example.com",
+    "country": "Uzbekistan",
+    "city": "Samarkand",
+    "skills": [
+      "Vue",
+      "SQL",
+      "PostgreSQL"
+    ],
+    "is_active": true,
+    "profession": "System Administrator"
+  },
+  {
+    "name": "Sardor Malika",
+    "age": 32,
+    "email": "sardor.malika12@example.com",
+    "country": "Uzbekistan",
+    "city": "Tashkent",
+    "skills": [
+      "Spring",
+      "Git",
+      "MongoDB",
+      "JavaScript",
+      "Python"
+    ],
+    "is_active": true,
+    "profession": "DevOps Engineer"
+  },
+  {
+    "name": "Gulbahor Madina",
+    "age": 22,
+    "email": "gulbahor.madina13@example.com",
+    "country": "Uzbekistan",
+    "city": "Nukus",
+    "skills": [
+      "CSS",
+      "Java",
+      "Git",
+      "Azure"
+    ],
+    "is_active": false,
+    "profession": "Project Manager"
+  },
+  {
+    "name": "Shoxrux Shoxrux",
+    "age": 24,
+    "email": "shoxrux.shoxrux14@example.com",
+    "country": "Uzbekistan",
+    "city": "Tashkent",
+    "skills": [
+      "C#",
+      "Azure",
+      "React",
+      "SQL",
+      "JavaScript"
+    ],
+    "is_active": false,
+    "profession": "Software Engineer"
+  },
+  {
+    "name": "Bekzod Diyor",
+    "age": 28,
+    "email": "bekzod.diyor15@example.com",
+    "country": "Uzbekistan",
+    "city": "Urgench",
+    "skills": [
+      "MongoDB",
+      "Flask",
+      "Vue",
+      "HTML"
+    ],
+    "is_active": false,
+    "profession": "DevOps Engineer"
+  },
+  {
+    "name": "Sardor Zarnigor",
+    "age": 30,
+    "email": "sardor.zarnigor16@example.com",
+    "country": "Uzbekistan",
+    "city": "Namangan",
+    "skills": [
+      "C#",
+      "Kubernetes",
+      "Docker"
+    ],
+    "is_active": true,
+    "profession": "QA Engineer"
+  },
+  {
+    "name": "Nigora Shoxrux",
+    "age": 22,
+    "email": "nigora.shoxrux17@example.com",
+    "country": "Uzbekistan",
+    "city": "Andijan",
+    "skills": [
+      "Docker",
+      "MongoDB",
+      "Spring",
+      "React",
+      "Python"
+    ],
+    "is_active": true,
+    "profession": "Data Analyst"
+  },
+  {
+    "name": "Nigora Javlon",
+    "age": 30,
+    "email": "nigora.javlon18@example.com",
+    "country": "Uzbekistan",
+    "city": "Jizzakh",
+    "skills": [
+      "Kubernetes",
+      ".NET",
+      "JavaScript",
+      "C#",
+      "Azure"
+    ],
+    "is_active": true,
+    "profession": "System Administrator"
+  },
+  {
+    "name": "Vali Diyor",
+    "age": 39,
+    "email": "vali.diyor19@example.com",
+    "country": "Uzbekistan",
+    "city": "Namangan",
+    "skills": [
+      "Vue",
+      "Azure",
+      "CSS",
+      "React"
+    ],
+    "is_active": false,
+    "profession": "Project Manager"
+  },
+  {
+    "name": "Dilnoza Zarnigor",
+    "age": 23,
+    "email": "dilnoza.zarnigor20@example.com",
+    "country": "Uzbekistan",
+    "city": "Nukus",
+    "skills": [
+      "Python",
+      "Java"
+    ],
+    "is_active": false,
+    "profession": "Data Analyst"
+  },
+  {
+    "name": "Javlon Jamshid",
+    "age": 35,
+    "email": "javlon.jamshid21@example.com",
+    "country": "Uzbekistan",
+    "city": "Andijan",
+    "skills": [
+      "Kubernetes",
+      "JavaScript",
+      "Git"
+    ],
+    "is_active": true,
+    "profession": "Software Engineer"
+  },
+  {
+    "name": "Azamat Ali",
+    "age": 37,
+    "email": "azamat.ali22@example.com",
+    "country": "Uzbekistan",
+    "city": "Urgench",
+    "skills": [
+      "SQL",
+      "Django",
+      "HTML",
+      "Git"
+    ],
+    "is_active": false,
+    "profession": "Mobile Developer"
+  },
+  {
+    "name": "Nigora Madina",
+    "age": 22,
+    "email": "nigora.madina23@example.com",
+    "country": "Uzbekistan",
+    "city": "Kokand",
+    "skills": [
+      "PostgreSQL",
+      "C#"
+    ],
+    "is_active": false,
+    "profession": "Software Engineer"
+  },
+  {
+    "name": "Shoxrux Nigora",
+    "age": 22,
+    "email": "shoxrux.nigora24@example.com",
+    "country": "Uzbekistan",
+    "city": "Urgench",
+    "skills": [
+      "Azure",
+      "SQL",
+      ".NET"
+    ],
+    "is_active": false,
+    "profession": "System Administrator"
+  },
+  {
+    "name": "Zarnigor Gulbahor",
+    "age": 24,
+    "email": "zarnigor.gulbahor25@example.com",
+    "country": "Uzbekistan",
+    "city": "Andijan",
+    "skills": [
+      "Java",
+      "AWS",
+      "React",
+      "Spring"
+    ],
+    "is_active": true,
+    "profession": "Data Analyst"
+  },
+  {
+    "name": "Shoxrux Azamat",
+    "age": 38,
+    "email": "shoxrux.azamat26@example.com",
+    "country": "Uzbekistan",
+    "city": "Samarkand",
+    "skills": [
+      "Python",
+      "AWS",
+      "Docker",
+      "Vue"
+    ],
+    "is_active": false,
+    "profession": "Software Engineer"
+  },
+  {
+    "name": "Lola Zarnigor",
+    "age": 26,
+    "email": "lola.zarnigor27@example.com",
+    "country": "Uzbekistan",
+    "city": "Kokand",
+    "skills": [
+      "JavaScript",
+      "Kubernetes",
+      "MongoDB",
+      "HTML"
+    ],
+    "is_active": true,
+    "profession": "Project Manager"
+  },
+  {
+    "name": "Bekzod Shoxrux",
+    "age": 30,
+    "email": "bekzod.shoxrux28@example.com",
+    "country": "Uzbekistan",
+    "city": "Tashkent",
+    "skills": [
+      "AWS",
+      "MongoDB",
+      "Azure",
+      "React",
+      "CSS"
+    ],
+    "is_active": true,
+    "profession": "Software Engineer"
+  },
+  {
+    "name": "Madina Zarnigor",
+    "age": 34,
+    "email": "madina.zarnigor29@example.com",
+    "country": "Uzbekistan",
+    "city": "Urgench",
+    "skills": [
+      "Spring",
+      "Docker",
+      "Django",
+      "HTML",
+      "Vue"
+    ],
+    "is_active": false,
+    "profession": "DevOps Engineer"
+  },
+  {
+    "name": "Azamat Azamat",
+    "age": 25,
+    "email": "azamat.azamat30@example.com",
+    "country": "Uzbekistan",
+    "city": "Andijan",
+    "skills": [
+      "Git",
+      "AWS",
+      "Vue",
+      "CSS"
+    ],
+    "is_active": false,
+    "profession": "Data Analyst"
+  },
+  {
+    "name": "Azamat Sardor",
+    "age": 22,
+    "email": "azamat.sardor31@example.com",
+    "country": "Uzbekistan",
+    "city": "Tashkent",
+    "skills": [
+      "Spring",
+      "SQL",
+      "Kubernetes",
+      "Java",
+      "Django"
+    ],
+    "is_active": true,
+    "profession": "Frontend Developer"
+  },
+  {
+    "name": "Malika Jamshid",
+    "age": 35,
+    "email": "malika.jamshid32@example.com",
+    "country": "Uzbekistan",
+    "city": "Namangan",
+    "skills": [
+      "JavaScript",
+      "Flask"
+    ],
+    "is_active": true,
+    "profession": "Frontend Developer"
+  },
+  {
+    "name": "Zarnigor Malika",
+    "age": 27,
+    "email": "zarnigor.malika33@example.com",
+    "country": "Uzbekistan",
+    "city": "Urgench",
+    "skills": [
+      "Vue",
+      "HTML",
+      "AWS",
+      "Python",
+      "Docker"
+    ],
+    "is_active": false,
+    "profession": "Frontend Developer"
+  },
+  {
+    "name": "Aziza Jamshid",
+    "age": 39,
+    "email": "aziza.jamshid34@example.com",
+    "country": "Uzbekistan",
+    "city": "Kokand",
+    "skills": [
+      ".NET",
+      "Flask"
+    ],
+    "is_active": false,
+    "profession": "System Administrator"
+  },
+  {
+    "name": "Gulbahor Lola",
+    "age": 26,
+    "email": "gulbahor.lola35@example.com",
+    "country": "Uzbekistan",
+    "city": "Nukus",
+    "skills": [
+      "MongoDB",
+      "AWS",
+      "PostgreSQL",
+      "Django"
+    ],
+    "is_active": false,
+    "profession": "QA Engineer"
+  },
+  {
+    "name": "Umid Ali",
+    "age": 40,
+    "email": "umid.ali36@example.com",
+    "country": "Uzbekistan",
+    "city": "Jizzakh",
+    "skills": [
+      ".NET",
+      "Flask"
+    ],
+    "is_active": true,
+    "profession": "Frontend Developer"
+  },
+  {
+    "name": "Shahnoza Sardor",
+    "age": 40,
+    "email": "shahnoza.sardor37@example.com",
+    "country": "Uzbekistan",
+    "city": "Jizzakh",
+    "skills": [
+      "SQL",
+      "React",
+      "Kubernetes",
+      "Java"
+    ],
+    "is_active": true,
+    "profession": "Mobile Developer"
+  },
+  {
+    "name": "Shoxrux Javlon",
+    "age": 33,
+    "email": "shoxrux.javlon38@example.com",
+    "country": "Uzbekistan",
+    "city": "Nukus",
+    "skills": [
+      "PostgreSQL",
+      "Java",
+      "Azure"
+    ],
+    "is_active": true,
+    "profession": "Frontend Developer"
+  },
+  {
+    "name": "Vali Lola",
+    "age": 36,
+    "email": "vali.lola39@example.com",
+    "country": "Uzbekistan",
+    "city": "Urgench",
+    "skills": [
+      "Docker",
+      "Vue"
+    ],
+    "is_active": true,
+    "profession": "QA Engineer"
+  },
+  {
+    "name": "Umid Aziza",
+    "age": 38,
+    "email": "umid.aziza40@example.com",
+    "country": "Uzbekistan",
+    "city": "Kokand",
+    "skills": [
+      "CSS",
+      "JavaScript"
+    ],
+    "is_active": true,
+    "profession": "Backend Developer"
+  },
+  {
+    "name": "Madina Lola",
+    "age": 23,
+    "email": "madina.lola41@example.com",
+    "country": "Uzbekistan",
+    "city": "Fergana",
+    "skills": [
+      "Docker",
+      "C#",
+      "JavaScript"
+    ],
+    "is_active": true,
+    "profession": "Frontend Developer"
+  },
+  {
+    "name": "Azamat Gulbahor",
+    "age": 21,
+    "email": "azamat.gulbahor42@example.com",
+    "country": "Uzbekistan",
+    "city": "Kokand",
+    "skills": [
+      "Git",
+      "Spring",
+      "PostgreSQL"
+    ],
+    "is_active": false,
+    "profession": "Project Manager"
+  },
+  {
+    "name": "Bekzod Gulbahor",
+    "age": 27,
+    "email": "bekzod.gulbahor43@example.com",
+    "country": "Uzbekistan",
+    "city": "Andijan",
+    "skills": [
+      "C#",
+      "PostgreSQL",
+      "JavaScript"
+    ],
+    "is_active": true,
+    "profession": "Project Manager"
+  },
+  {
+    "name": "Nigora Aziza",
+    "age": 24,
+    "email": "nigora.aziza44@example.com",
+    "country": "Uzbekistan",
+    "city": "Fergana",
+    "skills": [
+      "CSS",
+      "HTML"
+    ],
+    "is_active": true,
+    "profession": "Project Manager"
+  },
+  {
+    "name": "Vali Shoxrux",
+    "age": 20,
+    "email": "vali.shoxrux45@example.com",
+    "country": "Uzbekistan",
+    "city": "Fergana",
+    "skills": [
+      "HTML",
+      "Vue",
+      "Spring",
+      "MongoDB"
+    ],
+    "is_active": true,
+    "profession": "Data Analyst"
+  },
+  {
+    "name": "Sardor Vali",
+    "age": 35,
+    "email": "sardor.vali46@example.com",
+    "country": "Uzbekistan",
+    "city": "Nukus",
+    "skills": [
+      "Django",
+      "AWS",
+      "C#"
+    ],
+    "is_active": true,
+    "profession": "QA Engineer"
+  },
+  {
+    "name": "Ali Shoxrux",
+    "age": 35,
+    "email": "ali.shoxrux47@example.com",
+    "country": "Uzbekistan",
+    "city": "Andijan",
+    "skills": [
+      "CSS",
+      "Azure"
+    ],
+    "is_active": false,
+    "profession": "QA Engineer"
+  },
+  {
+    "name": "Zarnigor Malika",
+    "age": 24,
+    "email": "zarnigor.malika48@example.com",
+    "country": "Uzbekistan",
+    "city": "Urgench",
+    "skills": [
+      "SQL",
+      "React",
+      "Python",
+      "Kubernetes",
+      "JavaScript"
+    ],
+    "is_active": false,
+    "profession": "QA Engineer"
+  },
+  {
+    "name": "Bekzod Javlon",
+    "age": 29,
+    "email": "bekzod.javlon49@example.com",
+    "country": "Uzbekistan",
+    "city": "Fergana",
+    "skills": [
+      "CSS",
+      "Flask"
+    ],
+    "is_active": true,
+    "profession": "Data Analyst"
+  }
+]
